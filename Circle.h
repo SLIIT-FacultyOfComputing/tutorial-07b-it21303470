@@ -10,5 +10,4 @@ class Circle {
       ~Circle(); // Destructor
       void display();
       float calcArea();
-      void setRadius(int r);
 };

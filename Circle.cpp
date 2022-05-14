@@ -21,7 +21,3 @@ void Circle::display() {
 float Circle::calcArea() {
     return 22.0/7*radius*radius;
 }
-void Circle::setRadius(int r)
-{
-  radius=r;
-}

@@ -10,6 +10,4 @@ class Rectangle {
       ~Rectangle(); // Destructor
       int calcArea();
       void display();
-      void setLength(int l);
-      void setWidth(int w);
 };
